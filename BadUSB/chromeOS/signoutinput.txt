@@ -1,4 +1,4 @@
-REM MADE BY HTTPS / https://github.com/httpsisbetter
+@@ -2,14 +2,8 @@ REM MADE BY HTTPS / https://github.com/httpsisbetter
 REM signs out if theres the language input bar
 REM Requirements: CHROMEOS
 
@@ -7,9 +7,15 @@ DELAY 100
 CTRL W 
 DELAY 100
 CTRL W 
-DELAY 2000
+DELAY 100
 SHIFT TAB
 DELAY 100
 ENTER   
 DELAY 500
+ENTER
+DELAY 100
+CTRL Q
+CTRL Q 
+CTRL Q
+CTRL Q 
 ENTER
